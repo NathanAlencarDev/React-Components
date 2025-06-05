@@ -1,4 +1,4 @@
-````md
+
 # 🧠 Anotações - React
 
 ## 📦 Componentes
@@ -8,9 +8,9 @@
 - Recebe props como **parâmetros** 🧳  
 
 ### 🧾 `Card`
-```tsx
+
 <Card id={} paragraph={} details={} />
-````
+
 
 * Props: `id`, `paragraph`, `details`
 * Exibe infos num `div` com `h1` + `p` 🧱
