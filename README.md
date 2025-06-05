@@ -64,5 +64,3 @@ Footer
 * Reutilização de componentes ♻️
 
 👨‍💻 Feito por: **Nathan Alencar**
-
-```
